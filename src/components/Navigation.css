@@ -1,0 +1,19 @@
+body{
+    margin:0;
+}
+.nav-container {
+    margin-left: 0%;
+    height : 15%;
+    margin: 0;
+    padding: 0;
+    background-color: darkslategrey;
+}
+
+.nav-item{
+    padding: 15px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    display: block;
+}
